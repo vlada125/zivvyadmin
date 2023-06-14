@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zivvyadmin/static/css/main.ead62384.css",
-    "main.js": "/zivvyadmin/static/js/main.61b793a1.js",
+    "main.js": "/zivvyadmin/static/js/main.22edec45.js",
     "static/js/787.218c7ebf.chunk.js": "/zivvyadmin/static/js/787.218c7ebf.chunk.js",
     "static/media/AvenirNextCyr-ThinItalic.ttf": "/zivvyadmin/static/media/AvenirNextCyr-ThinItalic.48d25d6e184d4a8db5d2.ttf",
     "static/media/AvenirNextCyr-LightItalic.ttf": "/zivvyadmin/static/media/AvenirNextCyr-LightItalic.9e61a3331767cc2f9137.ttf",
@@ -21,11 +21,11 @@
     "static/media/AvenirNextCyr-Bold.ttf": "/zivvyadmin/static/media/AvenirNextCyr-Bold.ae3b1e683a0c6a170a24.ttf",
     "index.html": "/zivvyadmin/index.html",
     "main.ead62384.css.map": "/zivvyadmin/static/css/main.ead62384.css.map",
-    "main.61b793a1.js.map": "/zivvyadmin/static/js/main.61b793a1.js.map",
+    "main.22edec45.js.map": "/zivvyadmin/static/js/main.22edec45.js.map",
     "787.218c7ebf.chunk.js.map": "/zivvyadmin/static/js/787.218c7ebf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ead62384.css",
-    "static/js/main.61b793a1.js"
+    "static/js/main.22edec45.js"
   ]
 }
