@@ -25,7 +25,7 @@ const App = () => {
           <Route path={ROUTES.LOGOUT_SUCCESS} element={<LogoutSuccessPage />} />
           <Route path={ROUTES.UNLOCK} element={<UnlockPage />} />
           <Route path={ROUTES.ERROR} element={<ErrorPage />} />
-          <Route path={'/*'} element={<Navigate to={ROUTES.SIGNIN_PAGE} />} />
+          {/* <Route path={'/*'} element={<Navigate to={ROUTES.SIGNIN_PAGE} />} /> */}
         </Routes>
       </BrowserRouter>
     </div>
